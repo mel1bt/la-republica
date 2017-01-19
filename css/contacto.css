@@ -1,0 +1,20 @@
+/*CONTACTO*/
+.ejemplo{
+    clear: both;
+    float: right;
+}
+.bg-e{
+	background-color: #EEEEEE;
+}
+.btn-dark{
+    background: black;
+}
+.text-white{
+    color: white;
+    padding: 0rem 4rem;
+}
+@media (max-width: 544px){
+    .ejemplo{
+        float: none;
+    }
+}

@@ -1,0 +1,74 @@
+/*TODOS LOS COLUMNISTAS*/
+.txt-oswald{
+	font-family: 'Oswald', sans-serif;
+}
+
+.title-colum{
+	font-family: 'PT Sans', sans-serif;
+	font-size: 1rem;
+	color: #768599;
+}
+
+.red{
+	color: #BA1414;
+}
+
+.bg-red{
+	background-color: #BA1414;
+}
+
+.bg-light-gray{
+	background-color: #E2E6E9;
+	padding: 25px 2px 25px 12px;
+}
+
+.text-colum{
+	text-align: left;
+}
+
+.mt-1{
+	margin-top: 1%;
+}
+
+.mrb-3{
+	padding-right: 3px;
+    padding-left: 3px;
+    margin-top: 1px;
+    margin-bottom: 1px;
+}
+
+.aling{
+	position: relative;
+	left: 25%;
+	right: 25%;
+}
+
+.m0{
+	margin: 0 auto;
+}
+
+.page-link {
+    padding: 0.5rem 1.75rem;
+    margin: 5px;
+    background-color: transparent;
+    border:0px;
+    text-decoration: none;
+    color: white;
+}
+
+.navbar.center .navbar-inner {
+    text-align: center;
+}
+
+.navbar.center .navbar-inner .nav {
+    display:inline-block;
+    float: none;
+}
+
+.pagination-filtro{
+	display: block;
+}
+
+.page-item-filtro{
+	display: inline-block;
+}
